@@ -1,0 +1,56 @@
+{
+    "StartUps": [
+      {
+        "startup_name": "1",
+        "id": 1,
+        "tagline": "nope",
+        "email": "sebastian@codingthesmartway.com",
+        "description": "IT SERVICES PROVIDER",
+        "img":"imggg",
+        "visted":"null"
+      },
+      { 
+        "startup_name": "2",
+
+        "id": 2,
+        "tagline": "ndsfdfdope",
+        "email": "sebastiansdfdsfdf@codingthesmartway.com",
+        "description": "Desdfdsfss",
+        "img":"imdsfdsfggg",
+        "visted":"ndsfsdfull"
+      },
+      {
+        
+        "startup_name": "3",
+
+        "id": 3,
+        "tagline": "nopsadsdsde",
+        "email": "dasdsadsadsadas@codingthesmartway.com",
+        "description": "Desadsadsadsdsdssddddddddd",
+        "img":"imggdddddddddddddddddddg",
+        "visted":"nudddddddddddddddll"
+      },
+      {
+        
+        "startup_name": "sadsdsad",
+
+        "id": 3,
+        "tagline": "nopsadsdsde",
+        "email": "dasdsadsadsadas@codingthesmartway.com",
+        "description": "Desadsadsadsdsdssddddddddd",
+        "img":"imggdddddddddddddddddddg",
+        "visted":"nudddddddddddddddll"
+      },
+      {
+        
+        "startup_name": "4",
+
+        "id": 3,
+        "tagline": "nopsadsdsde",
+        "email": "dasdsadsadsadas@codingthesmartway.com",
+        "description": "Desadsadsadsdsdssddddddddd",
+        "img":"imggdddddddddddddddddddg",
+        "visted":"nudddddddddddddddll"
+      }
+    ]
+  }
